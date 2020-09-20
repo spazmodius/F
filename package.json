@@ -1,0 +1,7 @@
+{
+  "name": "@spazmodius/F",
+  "version": "1.0.0",
+  "description": "Simple higher-order functions and combinators",
+  "main": "F.js",
+  "repository": "git://github.com/spazmodius/F"
+}
